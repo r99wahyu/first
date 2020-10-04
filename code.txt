@@ -15,3 +15,11 @@ lalu saya tambahkan sesuatu dari web, dan comit (otomatis ke push).
 lalu saya edit file local ini, lalu saya comit, lalu saya push-->gagal, karena saya ngoding berdasarkan comit yg obsolete
 
 agar bisa push, saya pull origin master dulu. kebetulan hasil push ga ada yg bentrok dg hasil comit local saya yg blm saya push. jadi ga perlu comit lagi di local, langsung push aja.
+
+lalu saya edit 1 file dari web, lalu comit
+lalu saya edit file tsb di local, lalu stage, lalu comit
+agar bsa push, saya pull dulu. setelah pull, ketauan bahwa ada bentrok
+bentrok harus diselesaikan (edit & comit, via vscode biar lebih mudah)
+baru push
+
+bentrok juga bisa ketahuan waat mau comit di web editor
