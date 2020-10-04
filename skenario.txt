@@ -23,3 +23,6 @@ bentrok harus diselesaikan (edit & comit, via vscode biar lebih mudah)
 baru push
 
 bentrok juga bisa ketahuan saat mau comit di web editor.
+
+lalu saya create branch dari_vsc
+ini disave setelah create branch.
