@@ -2,6 +2,7 @@ ini ceritanya code.
 
 jadi pertama saya bikin akun repo dulu dari web interfacenya github
 lalu saya clone ke PC dg GIT GUI
+--> remote otomatis ditambahkan, dg nama 'origin', branch otomatis jadi 'master'
 lalu di PC saya tambahin file ini
 lalu saya stage all changes dg GIT GUI
 lalu saya comit (local, GIT GUI)
