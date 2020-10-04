@@ -3,6 +3,15 @@ ini ceritanya code.
 jadi pertama saya bikin akun repo dulu dari web interfacenya github
 lalu saya clone ke PC dg GIT GUI
 --> remote otomatis ditambahkan, dg nama 'origin', branch otomatis jadi 'master'
+--> otomatis mem pull kondisi terakhir yg ada di github
 lalu di PC saya tambahin file ini
 lalu saya stage all changes dg GIT GUI
 lalu saya comit (local, GIT GUI)
+
+lalu saya push, bisa. karena yg terakhir saya pull (yaitu waktu cloning) adalah yg terakhir.
+
+lalu saya tambahkan sesuatu dari web, dan comit (otomatis ke push).
+
+lalu saya edit file local ini, lalu saya comit, lalu saya push-->gagal, karena saya ngoding berdasarkan comit yg obsolete
+
+agar bisa push, saya pull origin master dulu. kebetulan hasil push ga ada yg bentrok dg hasil comit local saya yg blm saya push. jadi ga perlu comit lagi di local, langsung push aja.
