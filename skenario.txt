@@ -22,4 +22,4 @@ agar bsa push, saya pull dulu. setelah pull, ketauan bahwa ada bentrok
 bentrok harus diselesaikan (edit & comit, via vscode biar lebih mudah)
 baru push
 
-bentrok juga bisa ketahuan waat mau comit di web editor.
+bentrok juga bisa ketahuan saat mau comit di web editor.
