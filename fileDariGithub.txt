@@ -1,1 +1,2 @@
 file ini dibuat dari web nya github
+ini perubahan kedua yang ada di branch "ruki".

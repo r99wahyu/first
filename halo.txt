@@ -1,2 +1,3 @@
 halo semua
 ini perubahan yang ada di branch "ruki".
+ini perubahan kedua yang ada di branch "ruki".
